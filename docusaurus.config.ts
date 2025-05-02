@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'solayff', // Usually your GitHub org/user name.
-  projectName: 'SOLAY_Games_Docs', // Usually your repo name.
+  projectName: 'SOLAY_Docs', // Usually your repo name.
 	deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
