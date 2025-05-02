@@ -17,3 +17,14 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+فاوندر:
+  label: فاوندر
+مؤسس:
+  label: مؤسس
+مبرمج:
+  label: مبرمج
+سولايف:
+  label: سولايف
+اونر:
+  label: اونر

@@ -1,12 +1,10 @@
 ---
 slug: first-blog-post
-title: First Blog Post
-authors: [slorber, yangshun]
-tags: [hola, docusaurus]
+title: المؤسس
+authors: [solay]
+tags: [فاوندر, مؤسس, مبرمج]
 ---
 
-Lorem ipsum dolor sit amet...
+مؤسس ومبرمج وصاحب مجتمع سولاي
 
 <!-- truncate -->
-
-...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet

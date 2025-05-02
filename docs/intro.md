@@ -2,46 +2,90 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# المقدمة
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**اهلاً وسهلاً بكم في مجتمع سولاي**
 
-## Getting Started
+هنا ستجد جميع الشروحات والتعليمات والمستندات الأساسية الخاصة بـ **مجتمع سولاي**.
 
-Get started by **creating a new site**.
+<!-- ## ماهو سيرفر سولايف؟ -->
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+<details>
+<summary>ماهو سيرفر سولايف؟</summary>
 
-### What you'll need
+<p>
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+سيرفر سولايف هو سيرفر CFW للحياة الواقعية (FiveM RP) يركز على تقديم بيئة لعب ممتعة وداعمة لصناع المحتوى.  
+تم تأسيس المجتمع منذ عام <strong>2019</strong> ونطمح للتوسع ليصبح شبكة ألعاب متكاملة تخدم جميع اللاعبين.
 
-## Generate a new site
+</p>
 
-Generate a new Docusaurus site using the **classic template**.
+</details>
 
-The classic template will automatically be added to your project after you run the command:
+<!-- ## حقوق المواطن -->
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+<details>
+<summary>حقوق المواطن</summary>
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+<p>
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+نؤمن بأن معلوماتك وبياناتك في أيدٍ أمينة.  
+نضمن لك السرية التامة وعدم مشاركة معلوماتك مع أي جهة، لضمان تجربة لعب آمنة وعادلة.
 
-## Start your site
+</p>
 
-Run the development server:
+</details>
 
-```bash
-cd my-website
-npm run start
-```
+<!-- ## حقوق الإدارة -->
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+<details>
+<summary>حقوق الإدارة</summary>
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+<p>
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+الإدارة تسعى دائماً لمحاربة المخربين وحماية بيئة اللعب.  
+من حق الإدارة اتخاذ جميع الإجراءات اللازمة لضمان استمرار المتعة والنظام داخل المجتمع، بما يتوافق مع قوانيننا الداخلية.
+
+</p>
+
+</details>
+
+## حول مستنداتنا
+
+توفر مستنداتنا شروحات شاملة عن:
+
+- سيرفر سولايف (فايف إم)
+- السرقات والقوانين والأنظمة
+- شروحات برمجية وأدوات المجتمع
+- حلول للمشاكل الشائعة التي قد تواجهك
+
+## الأقسام
+
+يمكنك الانتقال بسهولة إلى أي قسم من خلال القائمة الجانبية، حيث ستجد كل موضوع مصنف ومنسق بشكل سهل التصفح.
+
+## روابط مهمة
+
+- [موقع سولاي](https://solayf.com/)
+- [سيرفر الدعم الفني](https://discord.gg/so/)
+- [المتجر](https://store.solayf.com/)
+- [قوانين المتجر](https://store.solayf.com/ar/p/OBloa/)
+- [سياسة الخصوصية](https://solayf.com/privacy-policy/)
+- [الشروط والقوانين](https://solayf.com/Rules?ID=9/)
+
+## ملاحظات وتنبيهات
+
+:::tip نصيحة
+يوجد شروحات ومقالات ستساعدك بشكل كبير، ننصح بالاطلاع عليها قبل بدء اللعب.
+:::
+
+:::info معلومة
+مستندات سولاي يتم تحديثها باستمرار لضمان تقديم أحدث المعلومات لكم.
+:::
+
+:::caution تنبيه
+بعض القوانين قد تتغير دون إشعار مسبق، يرجى مراجعة التحديثات باستمرار.
+:::
+
+:::danger تحذير
+مخالفة القوانين قد تعرض حسابك للحظر الدائم.
+:::
